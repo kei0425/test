@@ -1,0 +1,7 @@
+Mozilla Firefox is a free and open source[10] web browser descended from the Mozilla Application Suite and managed by Mozilla Corporation. As of September 2011[update], Firefox is the second most widely used browser, with approximately 25% of worldwide usage share of web browsers.[11][12][13] The browser has had particular success in Germany and Africa, where it is the most popular browser with 50%[14] and 35%[15] usage respectively.
+
+To display web pages, Firefox uses the Gecko layout engine, which implements most current web standards in addition to several features that are intended to anticipate likely additions to the standards.[16]
+
+Features include tabbed browsing, spell checking, incremental find, live bookmarking, a download manager, private browsing, location-aware browsing (also known as "geolocation") based exclusively on a Google service[17] and an integrated search system that uses Google by default in most localizations. Functions can be added through extensions, created by third-party developers,[18] of which there is a wide selection, a feature that has attracted many of Firefox's users.
+
+Firefox runs on various operating systems including Microsoft Windows, Linux, Mac OS X, FreeBSD, and many other platforms. Its current stable release is version 8.0.1, released on November 21, 2011[update].[19]
